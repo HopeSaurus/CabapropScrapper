@@ -3,4 +3,5 @@ __pycache__
 dumps
 *.xlsx
 *.txt
+!requirements.txt
 .DS_Store
